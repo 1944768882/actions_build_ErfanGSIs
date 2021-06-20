@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://download.meizu.com/Firmware/Flyme/meizu17_Pro/9.21.6.16/cn_daily/20210616020423/187fa1c1/update.zip
-  ROM_NAME: Flyme
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
